@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+bge-reranker-base/
+bge-small-zh-v1.5/
+.env
